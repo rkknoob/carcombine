@@ -1,0 +1,85 @@
+.blog {
+    margin-top : 220px;
+}
+
+.v-card.blog-noshadow {
+    box-shadow:none !important;
+}
+
+.v-application--wrap {
+    min-height: 0vh;
+}
+.conback{
+    background-color:#E6E6FA;
+}
+
+.theme--light.v-card.blog-vi {
+    background-color: transparent;
+    color: rgba(0,0,0,.87);
+}
+
+.hidden{
+    display: none;
+}
+
+.blog-img{
+    border-radius: 0!important; //
+}
+
+.theme--light.v-divider.blogbor {
+    border-color: rgba(11, 7, 217, 0.91);
+}
+
+.service-blog{
+    margin-top:150px;
+}
+
+.service-blog-images {
+    width: 100% !important;
+}
+
+.blog-bg{
+    margin-top: -40px;
+    background-image: url("/images/blog/blog.png") !important;
+    background-repeat: round;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100% !important;
+}
+
+/*
+* Basic CSS Media Query Template
+ * TODO: I should probably use Sass...
+ * Author: Michael Vieth
+ * ------------------------------------------
+ *  Responsive Grid Media Queries - 1280, 1024, 768, 480
+ *   1280-1024   - desktop (default grid)
+ *   1024-768    - tablet landscape
+ *   768-480     - tablet
+ *   480-less    - phone landscape & smaller
+ * --------------------------------------------
+ */
+
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+@media all and (min-width: 480px) and (max-width: 768px) {
+
+}
+
+@media all and (max-width: 480px) {
+
+}
+
+@media only screen and (max-width: 375px) {
+    .blog {
+        margin-top : 20px !important;
+    }
+}
+
+

@@ -1,0 +1,90 @@
+#home-template {
+    height: 3700px !important;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+// SiteName
+.site-name {
+    font-size: 40px !important;
+    margin-top: 20px !important;
+}
+// Brand
+.brand {
+    margin-top: 50px !important;
+}
+
+.brand-subtitle {
+    margin-top: 20px !important;
+}
+
+.brand-underline {
+    margin-top: 30px !important;
+    border-top: 3px solid #00267d !important;
+    width: 80% !important;
+    margin: 0 auto;
+}
+// Car
+.car {
+    margin-top: 200px !important;
+}
+
+.car-underline {
+    margin-top: 30px !important;
+    border-top: 3px solid #00267d !important;
+    width: 80% !important;
+    margin: 0 auto;
+}
+
+.car-subtitle {
+    font-size: 20px !important;
+    margin-top  :  40px;
+    margin-bottom: 2%;
+    color: white !important;
+}
+
+// Service
+.service {
+    margin-top: 250px !important;
+}
+
+.service-title {
+    font-size: 50px;
+    color: black !important;
+}
+
+.service-image {
+    width: 50% !important;
+}
+
+.service-text {
+    color: black !important;
+}
+
+// Contact
+.contact {
+    margin-top: 200px !important;
+}
+
+.contact-icon {
+    font-size: 150px;
+}
+
+.contact-address  {
+    text-align: center !important;
+}
+
+.contact-text  {
+    text-align: center !important;
+}
+
+.contact-underline {
+    border-top: 3px solid #00267d !important;
+    width: 80% !important;
+    margin: 0 auto;
+    margin-top : 60px;
+}
+
+.social-image {
+    width: 50px !important;
+    margin: 10px 12px 10px 12px !important;
+}

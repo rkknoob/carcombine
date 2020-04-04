@@ -1,0 +1,63 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Prompt&display=swap');
+@import 'font/import';
+@import 'font/font';
+
+// Vuetify
+@import '~vuetify/dist/vuetify.min.css';
+
+// Material Icon
+@import '~material-design-icons-iconfont/dist/material-design-icons.css';
+
+// Hover Master
+@import "~hover.css/css/hover-min.css";
+
+// Font Awesome
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+
+// Sweet Alert
+@import '~sweetalert2/dist/sweetalert2.min.css';
+
+// // Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+// Variables
+@import 'variables';
+
+// Sweet Alert
+@import 'swal';
+
+// Main
+@import 'main';
+
+// Responsive
+@import 'responsive/responsive';
+
+// Header
+@import 'headerTop';
+
+// Home
+@import 'home';
+
+// Category
+@import 'category';
+
+// Details
+@import 'details';
+
+// Blog
+@import 'blog';
+
+// Contact
+@import 'contact';
+
+// Not Found
+@import 'not_found';
+
+// is-fixed-top
+@import 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css';
+
+
+
+

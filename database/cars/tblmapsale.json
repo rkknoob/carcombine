@@ -1,0 +1,65 @@
+[
+    {
+        "Id_mapsale": 1,
+        "Id_user": "3",
+        "Id_interested": "7",
+        "Create_date": null,
+        "Create_id": null,
+        "Update_date": null,
+        "Update_id": null
+    },
+    {
+        "Id_mapsale": 2,
+        "Id_user": "9",
+        "Id_interested": "8",
+        "Create_date": null,
+        "Create_id": null,
+        "Update_date": "2019-11-27",
+        "Update_id": "6"
+    },
+    {
+        "Id_mapsale": 3,
+        "Id_user": "3",
+        "Id_interested": "12",
+        "Create_date": null,
+        "Create_id": null,
+        "Update_date": "2019-11-28",
+        "Update_id": "6"
+    },
+    {
+        "Id_mapsale": 4,
+        "Id_user": "3",
+        "Id_interested": "13",
+        "Create_date": "2019-11-27",
+        "Create_id": "6",
+        "Update_date": null,
+        "Update_id": null
+    },
+    {
+        "Id_mapsale": 5,
+        "Id_user": "10",
+        "Id_interested": "14",
+        "Create_date": "2019-11-27",
+        "Create_id": "6",
+        "Update_date": null,
+        "Update_id": null
+    },
+    {
+        "Id_mapsale": 6,
+        "Id_user": "3",
+        "Id_interested": "15",
+        "Create_date": "2019-11-27",
+        "Create_id": "6",
+        "Update_date": "2019-11-28",
+        "Update_id": "6"
+    },
+    {
+        "Id_mapsale": 7,
+        "Id_user": "8",
+        "Id_interested": "16",
+        "Create_date": "2019-11-27",
+        "Create_id": "6",
+        "Update_date": "2019-11-27",
+        "Update_id": "6"
+    }
+]

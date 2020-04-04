@@ -1,0 +1,158 @@
+.site-name {
+    margin-top: 60px;
+    font-size: 50px;
+    font-family: "Prompt";
+    text-shadow: 1px 1px 0px #d5d5d5, 2px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.top-page {
+    margin-top: 20%;
+}
+
+.form-wishlist {
+    height: 50px !important;
+}
+
+.form-wishlist-information {
+    height: 65px !important;
+}
+
+// Brand
+.brand {
+    margin-top: 220px;
+}
+
+.brand-title {
+    font-size: 70px;
+}
+
+.brand-subtitle {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 2%;
+}
+
+.brand-underline {
+    border-top: 3px solid #00267d !important;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.brand-carousel {
+    margin-top: 80px !important;
+}
+
+.brand-image {
+    text-align: center;
+    margin: 10px auto 20px;
+    vertical-align: middle;
+}
+
+.verticalHorizontal {
+    padding: 0px;
+    // height: 220px;
+    width: 52% !important;
+    text-align: center;
+    vertical-align: middle;
+}
+
+// Car
+.car {
+    margin-top: 350px;
+}
+
+.car-title {
+    font-size: 70px;
+    margin-bottom: 30px;
+}
+
+.car-underline {
+    border-top: 3px solid #00267d !important;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.car-subtitle {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 2%;
+}
+
+// .car-image {
+//     text-align: center;
+//     vertical-align: middle;
+//     width: 100%;
+//     height:auto;
+// }
+
+// Service
+.service {
+    margin-top: 400px;
+}
+
+.service-title {
+    font-size: 70px;
+    color: white;
+}
+
+.service-image {
+    width: 70%;
+}
+
+.service-text {
+    font-family: "Prompt", sans-serif;
+    font-size: 22px;
+    color: white;
+}
+
+// Contact
+.contact {
+    margin-top: 320px;
+}
+
+.contact-title {
+    font-size: 70px;
+}
+
+.contact-text {
+    font-family: "Prompt", sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+
+.contact-address {
+    font-family: "Prompt", sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+
+.contact-icon {
+    font-size: 150px !important;
+}
+
+.contact-underline {
+    border-top: 3px solid #00267d !important;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.contact-social {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.social-image {
+    width: 100px;
+    margin: 50px 20px 50px 20px;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.5s;
+}
+.fade-enter,
+.fade-leave-to {
+    opacity: 0;
+}

@@ -1,0 +1,82 @@
+/* Full HD*/
+@media  screen and (max-width: 1920px) {
+
+}
+
+/* Mac */
+@media  screen and (max-width: 1680px) {
+
+}
+
+/* Desktop HD+ */
+@media  screen and (max-width: 1600px) {
+
+}
+
+/* Lab Top */
+@media  screen and (max-width: 1366px) {
+
+}
+
+/* Vertical IPad Pro  && Horizontal IPad */
+@media  screen and (max-width: 1024px) {
+    @import 'home/width-1024';
+}
+
+/* Horizontal IPhone X */
+@media  screen and (max-width: 812px) {
+    @import 'home/width-812';
+}
+
+/* Vertical IPad */
+@media  screen and (max-width: 768px) {
+    @import 'home/width-768';
+}
+
+/* Horizontal 6/7/8 Plus*/
+@media  screen and (max-width: 736px) {
+    @import 'home/width-736';
+}
+
+/* Horizontal IPhone 6/7/8 */
+@media  screen and (max-width: 667px) {
+    @import 'home/width-667';
+}
+
+/* Horizontal IPhone 5/SE */
+@media  screen and (max-width: 568px) {
+    @import 'home/width-568';
+}
+
+/* Vertical IPhone XS Max/ XR/ 6/ 7/ 8 Plus */
+@media only screen and (max-width: 414px) {
+    @import 'home/width-414';
+}
+
+/* Vertical IPhone X/ XS/ 6/7/8  */
+@media only screen and (max-width: 375px) {
+    @import 'home/width-375';
+    .category {
+        margin-top : 20px !important;
+    }
+    .contact-page {
+        margin-top : 20px !important;
+    }
+    .not-found {
+        margin-top: 425px !important;
+    }
+
+    .image-detail {
+        height: 100px !important;
+        margin: 0 auto;
+    }
+
+    .mobile_margin {
+        margin-top : -40px !important;
+    }
+}
+
+/* Vertical IPhone 5/SE  */
+@media only screen and (max-width: 320px) {
+    @import 'home/width-320';
+}
